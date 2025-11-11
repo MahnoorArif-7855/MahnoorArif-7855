@@ -1,4 +1,3 @@
-<!-- Mahnoor Arif - GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I'm Mahnoor Arif</h1>
 
